@@ -1,0 +1,9 @@
+{
+  "name": "vhraban/http-response-codes",
+  "description": "A simple interface that lists all possible HTTP Response codes",
+  "autoload": {
+    "psr-4": {
+      "HTTPResponseCodes\\": "src/"
+    }
+  }
+}
